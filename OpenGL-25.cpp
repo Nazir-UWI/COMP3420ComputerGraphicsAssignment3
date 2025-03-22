@@ -59,7 +59,7 @@ Install-Package Assimp -version 3.0.0
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/type_ptr.hpp>
 
-#include <SOIL/SOIL.h>
+#include <SOIL.h>
 
 
 // GL includes
